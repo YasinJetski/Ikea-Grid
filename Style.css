@@ -1,0 +1,310 @@
+.macbook-air {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.macbook-air .div {
+    background-color: #ffffff;
+    width: 1280px;
+    height: 832px;
+    position: relative;
+}
+
+.macbook-air .overlap-group {
+    position: absolute;
+    width: 598px;
+    height: 832px;
+    top: 0;
+    left: 0;
+    background-color: #0058a3;
+}
+
+.logo {
+    position: relative;
+    width: 80px;
+    height: 33px;
+    background-image: url(./img/vector.svg);
+    background-size: 100% 100%;
+}
+
+.logo .vector {
+    position: absolute;
+    width: 65px;
+    height: 13px;
+    top: 9px;
+    left: 9px;
+}
+
+.macbook-air .logga-in-p-ditt-IKEA {
+    position: absolute;
+    width: 437px;
+    top: 215px;
+    left: 94px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .text-wrapper {
+    color: #fbd914;
+}
+
+.macbook-air .span {
+    color: #ffffff;
+}
+
+.macbook-air .f-r-m-nga-l-senord {
+    position: absolute;
+    width: 437px;
+    top: 340px;
+    left: 94px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .text-wrapper-2 {
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.macbook-air .text-wrapper-3 {
+    text-decoration: underline;
+}
+
+.macbook-air .p {
+    position: absolute;
+    width: 437px;
+    top: 434px;
+    left: 94px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .text-wrapper-4 {
+    position: absolute;
+    width: 324px;
+    top: 127px;
+    left: 697px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .text-wrapper-5 {
+    position: absolute;
+    width: 324px;
+    top: 263px;
+    left: 697px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .overlap {
+    position: absolute;
+    width: 456px;
+    height: 71px;
+    top: 155px;
+    left: 695px;
+}
+
+.macbook-air .alternativ {
+    position: absolute;
+    width: 378px;
+    top: 49px;
+    left: 2px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .text-wrapper-6 {
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.macbook-air .rectangle {
+    position: absolute;
+    width: 456px;
+    height: 51px;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.macbook-air .text-wrapper-7 {
+    position: absolute;
+    width: 378px;
+    top: 344px;
+    left: 694px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.macbook-air .text-wrapper-8 {
+    position: absolute;
+    width: 291px;
+    top: 419px;
+    left: 756px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .overlap-2 {
+    position: absolute;
+    width: 456px;
+    height: 51px;
+    top: 600px;
+    left: 698px;
+    border-radius: 10px;
+}
+
+.macbook-air .text-wrapper-9 {
+    position: absolute;
+    width: 325px;
+    top: 14px;
+    left: 64px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .overlap-3 {
+    position: absolute;
+    width: 456px;
+    height: 51px;
+    top: 664px;
+    left: 698px;
+    border-radius: 10px;
+}
+
+.macbook-air .text-wrapper-10 {
+    position: absolute;
+    width: 364px;
+    top: 16px;
+    left: 58px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-11 {
+    position: absolute;
+    width: 320px;
+    top: 550px;
+    left: 762px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .rectangle-2 {
+    width: 456px;
+    height: 51px;
+    top: 291px;
+    left: 695px;
+    border-radius: 10px;
+    position: absolute;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.macbook-air .div-wrapper {
+    position: absolute;
+    width: 456px;
+    height: 51px;
+    top: 488px;
+    left: 698px;
+    background-color: #0058a3;
+    border-radius: 10px;
+}
+
+.macbook-air .text-wrapper-12 {
+    position: absolute;
+    width: 85px;
+    top: 7px;
+    left: 181px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Noto IKEA Latin-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .rectangle-3 {
+    width: 29px;
+    height: 29px;
+    top: 416px;
+    left: 698px;
+    border-radius: 7px;
+    position: absolute;
+    border: 1px solid;
+    border-color: #000000;
+}
